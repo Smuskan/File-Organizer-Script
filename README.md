@@ -15,4 +15,4 @@ The **File Organizer Script** is a Bash script designed to help you organize fil
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/File-Organizer.git
+   git clone https://github.com/Smuskan/File-Organizer-Script.git
